@@ -1,2 +1,2 @@
 # GitSync
-For Sync between home and company
+For ll  Sync between home and company
