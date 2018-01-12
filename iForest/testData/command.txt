@@ -1,0 +1,1 @@
+cat outliers.csv |grep ",-1,"|awk -F ',' '{if($1 == 1.0) print $1}'|wc -l
